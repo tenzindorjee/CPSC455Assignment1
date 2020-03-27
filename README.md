@@ -2,7 +2,7 @@
 tenzin@csu.fullerton.edu 
 
 **Student**:
-tenzin dorjee 
+Tenzin Dorjee 
 
 **How To Run**
 ```
