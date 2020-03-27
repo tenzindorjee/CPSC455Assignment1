@@ -1,4 +1,7 @@
-tenzin@csu.fullerton.edu tenzin dorjee 
+** email** 
+tenzin@csu.fullerton.edu 
+** student**
+tenzin dorjee 
 ```
 open terminal 
 locate folder
