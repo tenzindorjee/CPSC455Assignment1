@@ -1,9 +1,7 @@
 **email** 
-
 tenzin@csu.fullerton.edu 
 
 **student**
-
 tenzin dorjee 
 
 ```
