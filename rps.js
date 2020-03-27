@@ -1,3 +1,5 @@
+"use strict"
+
 function RPS(portNumber){
 
 	console.log('this server is working');
@@ -11,6 +13,9 @@ function RPS(portNumber){
 	const winner = "YOU HAVE WON THE GAME";
 	const tie = "YOU HAVE TIED THE GAME";
 	const loser = "YOU HAVE LOST THE GAME";
+
+
+	app.set('view engine','ejs');
 
 	app.get('/',function(request,response)
 	{
@@ -96,7 +101,7 @@ function RPS(portNumber){
 	console.log(computerScore);
 	console.log(totalGames);
 	}
-	
+
 	app.listen(portNumber);
 
 }
