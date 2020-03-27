@@ -1,6 +1,6 @@
-** email** 
+**email** 
 tenzin@csu.fullerton.edu 
-** student**
+**student**
 tenzin dorjee 
 ```
 open terminal 
