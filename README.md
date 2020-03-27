@@ -1,9 +1,11 @@
 **Email**:
 
 tenzin@csu.fullerton.edu 
+
 **Student**:
 
 Tenzin Dorjee 
+
 **How To Run**:
 ```
 open terminal 
@@ -18,3 +20,5 @@ did not implement extra credit
 **Anything Special About Your Submission That We Should Take Note Of**:
 
 nothing special about submission
+
+:smiley_cat:
